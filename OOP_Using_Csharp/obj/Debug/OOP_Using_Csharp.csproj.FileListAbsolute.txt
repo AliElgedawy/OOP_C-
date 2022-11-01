@@ -1,0 +1,10 @@
+C:\Users\Microsoft\source\repos\OOP_Using_Csharp\OOP_Using_Csharp\bin\Debug\OOP_Using_Csharp.exe.config
+C:\Users\Microsoft\source\repos\OOP_Using_Csharp\OOP_Using_Csharp\bin\Debug\OOP_Using_Csharp.exe
+C:\Users\Microsoft\source\repos\OOP_Using_Csharp\OOP_Using_Csharp\bin\Debug\OOP_Using_Csharp.pdb
+C:\Users\Microsoft\source\repos\OOP_Using_Csharp\OOP_Using_Csharp\obj\Debug\OOP_Using_Csharp.csproj.AssemblyReference.cache
+C:\Users\Microsoft\source\repos\OOP_Using_Csharp\OOP_Using_Csharp\obj\Debug\OOP_Using_Csharp.Form1.resources
+C:\Users\Microsoft\source\repos\OOP_Using_Csharp\OOP_Using_Csharp\obj\Debug\OOP_Using_Csharp.Properties.Resources.resources
+C:\Users\Microsoft\source\repos\OOP_Using_Csharp\OOP_Using_Csharp\obj\Debug\OOP_Using_Csharp.csproj.GenerateResource.cache
+C:\Users\Microsoft\source\repos\OOP_Using_Csharp\OOP_Using_Csharp\obj\Debug\OOP_Using_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\OOP_Using_Csharp\OOP_Using_Csharp\obj\Debug\OOP_Using_Csharp.exe
+C:\Users\Microsoft\source\repos\OOP_Using_Csharp\OOP_Using_Csharp\obj\Debug\OOP_Using_Csharp.pdb
